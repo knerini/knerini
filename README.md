@@ -28,9 +28,9 @@ I came from paramedic's environment and it's amazing to seeing me improve myself
 
 • pipex ✅ 125/125
 
-• push_swap 🌱 WIP
+• push_swap ✅ 125/125
 
-• so_long//FdF//fract-ol 💤
+• fract-ol 🌱 WIP
 
 
 4th circle
