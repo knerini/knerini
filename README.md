@@ -8,17 +8,17 @@ I came from paramedic's environment and it's amazing to seeing me improve myself
 1st circle
 
 
-• libft ✅ 125/125
+• libft ✅ 125/100
 
 
 2nd circle
 
 
-• ft_printf ✅ 100/125
+• ft_printf ✅ 100/100
 
-• get_next_line ✅ 125/125
+• get_next_line ✅ 125/100
 
-• born2beroot ✅ 125/125
+• born2beroot ✅ 125/100
 
 
 3rd circle
@@ -26,9 +26,9 @@ I came from paramedic's environment and it's amazing to seeing me improve myself
 
 • exam rank 02 ✅ 100/100
 
-• pipex ✅ 125/125
+• pipex ✅ 125/100
 
-• push_swap ✅ 125/125
+• push_swap ✅ 125/100
 
 • fract-ol 🌱 WIP
 
