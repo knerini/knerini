@@ -30,7 +30,7 @@ I came from paramedic's environment and it's amazing to seeing me improve myself
 
 • push_swap ✅ 125/100
 
-• fract-ol 🌱 WIP
+• fract-ol ✅ 125/100
 
 
 4th circle
@@ -40,7 +40,7 @@ I came from paramedic's environment and it's amazing to seeing me improve myself
 
 • Philosophers 💤
 
-• minishell 💤
+• minishell 🌱 WIP
 
 
 5th circle
