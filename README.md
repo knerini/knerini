@@ -36,7 +36,7 @@ I came from paramedic's environment and it's amazing to seeing me improve myself
 4th circle
 
 
-• exam rank 03 💤
+• exam rank 03 ✅ 100/100
 
 • Philosophers 💤
 
