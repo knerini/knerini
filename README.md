@@ -38,9 +38,9 @@ I came from paramedic's environment and it's amazing to seeing me improve myself
 
 • exam rank 03 ✅ 100/100
 
-• Philosophers 💤
+• minishell ✅ 97/100
 
-• minishell 🌱 WIP
+• Philosophers 🌱 WIP
 
 
 5th circle
