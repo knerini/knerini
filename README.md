@@ -40,17 +40,17 @@ I came from paramedic's environment and it's amazing to seeing me improve myself
 
 • minishell ✅ 97/100
 
-• Philosophers 🌱 WIP
+• Philosophers ✅ 125/100
 
 
 5th circle
 
 
-• exam rank 04 💤
+• exam rank 04 🌱 WIP
 
 • CPP's modules 💤
 
-• NetPractice 💤
+• NetPractice 🌱 WIP
 
 • miniRT//Cub3d 💤
 
