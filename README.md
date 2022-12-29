@@ -46,11 +46,11 @@ I came from paramedic's environment and it's amazing to seeing me improve myself
 5th circle
 
 
-• exam rank 04 🌱 WIP
-
-• CPP's modules 💤
+• exam rank 04 ✅ 100/100
 
 • NetPractice 🌱 WIP
+
+• CPP's modules 💤
 
 • miniRT//Cub3d 💤
 
