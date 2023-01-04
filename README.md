@@ -48,11 +48,11 @@ I came from paramedic's environment and it's amazing to seeing me improve myself
 
 • exam rank 04 ✅ 100/100
 
-• NetPractice 🌱 WIP
+• NetPractice ✅ 100/100
+
+• Cub3d 🌱 WIP
 
 • CPP's modules 💤
-
-• miniRT//Cub3d 💤
 
 
 6th circle
