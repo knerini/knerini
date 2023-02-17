@@ -50,9 +50,9 @@ I came from paramedic's environment and it's amazing to seeing me improve myself
 
 • NetPractice ✅ 100/100
 
-• Cub3d 🌱 WIP
+• Cub3d ✅ 120/100
 
-• CPP's modules 💤
+• CPP's modules 🌱 WIP
 
 
 6th circle
