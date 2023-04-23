@@ -52,17 +52,16 @@ I came from paramedic's environment and it's amazing to seeing me improve myself
 
 • Cub3d ✅ 120/100
 
-• CPP's modules 🌱 WIP
+• CPP's modules : 00 ✅ 100/100, 01 ✅ 100/100, 02 ✅ 100/100, 03 ✅ 100/100, 04 ✅ 100/100
 
 
 6th circle
 
+• CPP's modules : 05 ✅ 100/100, 06 ✅ 100/100, 07 ✅ 100/100, 08 ✅ 100/100, 09 ✅ 91/100
+
+• webserv 🌱 WIP
 
 • exam rank 05 💤
-
-• webserv//ft_irc 💤
-
-• ft_containers 💤
 
 • Inception 💤
 
