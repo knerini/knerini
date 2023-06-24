@@ -59,11 +59,11 @@ I came from paramedic's environment and it's amazing to seeing me improve myself
 
 • CPP's modules : 05 ✅ 100/100, 06 ✅ 100/100, 07 ✅ 100/100, 08 ✅ 100/100, 09 ✅ 91/100
 
-• webserv 🌱 WIP
+• webserv ✅ 110/100
 
-• exam rank 05 💤
+• exam rank 05 ✅ 100/100
 
-• Inception 💤
+• Inception 🌱 WIP
 
 
 7th circle
