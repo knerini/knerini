@@ -63,7 +63,7 @@ I came from paramedic's environment and it's amazing to seeing me improve myself
 
 • exam rank 05 ✅ 100/100
 
-• Inception 🌱✅ 100/100
+• Inception ✅ 100/100
 
 
 7th circle
