@@ -63,12 +63,12 @@ I came from paramedic's environment and it's amazing to seeing me improve myself
 
 • exam rank 05 ✅ 100/100
 
-• Inception 🌱 WIP
+• Inception 🌱✅ 100/100
 
 
 7th circle
 
 
-• exam rank 06 💤
+• exam rank 06 ✅ 100/100
 
-• ft_transcendance 💤
+• ft_transcendance 🌱 WIP
