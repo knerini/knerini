@@ -71,4 +71,4 @@ I came from paramedic's environment and it's amazing to seeing me improve myself
 
 • exam rank 06 ✅ 100/100
 
-• ft_transcendance 🌱 WIP
+• ft_transcendance ✅ 120/100
