@@ -7,10 +7,20 @@
 - 📫 You can find me on LinkedIn <a href="https://linkedin.com/in/krystel nerini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krystel nerini" height="30" width="40" /></a>
 
 ***
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,django,latex)](https://skillicons.dev), Assembly, FPC
 
-| Languages | Tools | OS Used | Tested Text Editors |
-| ----- | ----- | ----- | ----- |
-| [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,django,latex,py&perline=3)](https://skillicons.dev) Assembly | [![My Skills](https://skillicons.dev/icons?i=docker,git,github,postgres,postman&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=neovim,sublime,vim,vscode&perline=3)](https://skillicons.dev) |
+***
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,postgres,postman)](https://skillicons.dev) <a href="https://swagger.io/tools/swagger-ui/"> <img src ="https://static1.smartbear.co/swagger/media/images/logos/swagger_icon_clr.svg?ext=.svg" width=45></a>
+
+***
+### Familiar OS
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
+
+***
+### Tested Text Editors
+[![My Skills](https://skillicons.dev/icons?i=neovim,sublime,vim,vscode)](https://skillicons.dev)|
 
 ***
 
